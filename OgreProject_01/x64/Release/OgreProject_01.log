@@ -1,0 +1,9 @@
+﻿  reader_data.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1392,5): warning MSB8012: TargetPath(C:\Users\WilsonW\workspace\NYCU\class\3D Game Programming\3DGP_hw01_2024_Student\3DGP_Assignments\hw01_313551170\x64\Release\OgreProject_01.exe) 與 Linker 的 OutputFile 屬性值 (C:\Users\WilsonW\workspace\NYCU\class\3D Game Programming\3DGP_hw01_2024_Student\3DGP_Assignments\hw01_313551170\x64\Release\00_demo_hello.exe) 不相符。這可能會導致您的專案建置不正確。若要改正這種情況，請確認 $(OutDir)、$(TargetName) 和 $(TargetExt) 屬性值必須與 %(Link.OutputFile) 中指定的值相符。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1394,5): warning MSB8012: TargetName(OgreProject_01) 與 Linker 的 OutputFile 屬性值 (00_demo_hello) 不相符。這可能會導致您的專案建置不正確。若要改正這種情況，請確認 $(OutDir)、$(TargetName) 和 $(TargetExt) 屬性值必須與 %(Link.OutputFile) 中指定的值相符。
+  正在產生程式碼
+  6 of 442 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  OgreProject_01.vcxproj -> C:\Users\WilsonW\workspace\NYCU\class\3D Game Programming\3DGP_hw01_2024_Student\3DGP_Assignments\hw01_313551170\x64\Release\OgreProject_01.exe

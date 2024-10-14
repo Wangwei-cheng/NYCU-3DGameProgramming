@@ -1,0 +1,31 @@
+﻿  BaseApplication.cpp
+  BasicTools.cpp
+C:\Users\WilsonW\workspace\NYCU\class\3D Game Programming\3DGP_hw01_2024_Student\3DGP_Assignments\hw01_313551170\source\BaseApplication.cpp(9,10): error C1083: 無法開啟包含檔案: 'Ogre.h': No such file or directory
+C:\Users\WilsonW\workspace\NYCU\class\3D Game Programming\3DGP_hw01_2024_Student\3DGP_Assignments\hw01_313551170\source\BasicTools.h(12,10): error C1083: 無法開啟包含檔案: 'OgreCamera.h': No such file or directory
+  (編譯來源檔案 'source/BasicTools.cpp')
+  
+  main.cpp
+C:\Users\WilsonW\workspace\NYCU\class\3D Game Programming\3DGP_hw01_2024_Student\3DGP_Assignments\hw01_313551170\source\TutorialApplication.h(16,10): error C1083: 無法開啟包含檔案: 'OISEvents.h': No such file or directory
+  (編譯來源檔案 'source/main.cpp')
+  
+  reader_config.cpp
+C:\Users\WilsonW\workspace\NYCU\class\3D Game Programming\3DGP_hw01_2024_Student\3DGP_Assignments\hw01_313551170\source\reader_config.cpp(41,9): warning C4101: 'value': 未參考的區域變數
+  reader_data.cpp
+  SystemParameter.cpp
+  TutorialApplication.cpp
+C:\Users\WilsonW\workspace\NYCU\class\3D Game Programming\3DGP_hw01_2024_Student\3DGP_Assignments\hw01_313551170\source\TutorialApplication.cpp(14,10): error C1083: 無法開啟包含檔案: 'Ogre.h': No such file or directory
+  TutorialApplication_EventHandlers.cpp
+C:\Users\WilsonW\workspace\NYCU\class\3D Game Programming\3DGP_hw01_2024_Student\3DGP_Assignments\hw01_313551170\source\TutorialApplication_EventHandlers.cpp(18,10): error C1083: 無法開啟包含檔案: 'Ogre.h': No such file or directory
+  TutorialApplication_GamePlay.cpp
+C:\Users\WilsonW\workspace\NYCU\class\3D Game Programming\3DGP_hw01_2024_Student\3DGP_Assignments\hw01_313551170\source\TutorialApplication.h(16,10): error C1083: 無法開啟包含檔案: 'OISEvents.h': No such file or directory
+  (編譯來源檔案 'source/TutorialApplication_GamePlay.cpp')
+  
+  TutorialApplication_runtime.cpp
+C:\Users\WilsonW\workspace\NYCU\class\3D Game Programming\3DGP_hw01_2024_Student\3DGP_Assignments\hw01_313551170\source\TutorialApplication.h(16,10): error C1083: 無法開啟包含檔案: 'OISEvents.h': No such file or directory
+  (編譯來源檔案 'source/TutorialApplication_runtime.cpp')
+  
+  TutorialApplication_scene.cpp
+C:\Users\WilsonW\workspace\NYCU\class\3D Game Programming\3DGP_hw01_2024_Student\3DGP_Assignments\hw01_313551170\source\TutorialApplication.h(16,10): error C1083: 無法開啟包含檔案: 'OISEvents.h': No such file or directory
+  (編譯來源檔案 'source/TutorialApplication_scene.cpp')
+  
+  正在產生程式碼...
